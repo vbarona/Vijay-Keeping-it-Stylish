@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    background-color: rebeccapurple;
+}
+h1{
+    color: white;
+    text-align: center;
+    width: 400px
+}
+h2{
+    color: orange;
+    text-align: right;
+    width: 800px
+}
+#box1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+#box2{
+    background-color: blue;
+    border: solid 2px red;
+    width: 300px;
+    height: 400px;
+}
+#box3{
+    background-color: green;
+    border-radius: 6px;
+    width: 250px;
+    height: 600px;
+}
